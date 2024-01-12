@@ -1,0 +1,39 @@
+_repo: Early-autumn_72406
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bromfield, Louis
+    alias: Bromfield, Luis
+    birthdate: 1896
+    deathdate: 1956
+    gutenberg_agent_id: '56672'
+    url: http://www.gutenberg.org/2009/agents/56672
+    wikipedia: https://en.wikipedia.org/wiki/Louis_Bromfield
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Early_Autumn'
+gutenberg_issued: '2023-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72406'
+  lccn: '26017996'
+language: en
+pgterms:marc905: 20221228163906bromfield
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNYC :$bFrederick A. Stokes Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'United States -- Social conditions -- 1918-1932 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Early autumn
+url: http://www.gutenberg.org/ebooks/72406
